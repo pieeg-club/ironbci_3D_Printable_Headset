@@ -24,3 +24,5 @@ So Flexible is good. But take into mind that during printing
 # Final 
 I'm sure the flexible material is very good, but you see, you need to provide support during printing, which is difficult.  
 A rigid material is more difficult to adjust so the electrodes touch the skin.  
+
+# Gallery   
