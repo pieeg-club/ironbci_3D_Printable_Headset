@@ -7,7 +7,7 @@ A fully open, 3D-printable EEG headset for ironbci from PiEEG — designed for D
 
 
 Experience next-generation brainwave measurement with our 3D-printable EEG headset featuring:
-Dry Electrodes – no gel needed
+Dry Electrodes – no gel needed (As an example, I used this one - [link](https://pieeg.com/cap-eeg-kit/))
  Flexible & Adjustable Fit – optimized comfort
  High-Quality EEG Readings – reliable and precise
 
