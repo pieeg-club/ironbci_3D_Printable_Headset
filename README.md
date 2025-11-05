@@ -15,7 +15,7 @@ Watch the full tutorial video [here](https://youtu.be/x07X1MO13d0):
 
 
 # Assembling 
-For final assembly, you'll need bolts, washers, and nuts. Also, a belt. Details on what you need and the dimensions are in the video (above) or in the folder with presentation.  
+For final assembly, you'll need bolts, washers, and nuts. Also, a belt. Details on what you need and the dimensions are in the video (above) or in the folder with the presentation.  
 
 #Materssila for 3D printer 
 TPU  or PLA
@@ -36,6 +36,12 @@ These parts are used to cover the area with cables from electrodes to the brain-
 
 
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_3.png "cover")
+
+
+Headset and cover parts   
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_5.png "cover")
+
+
 
 
 
