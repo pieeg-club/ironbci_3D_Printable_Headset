@@ -5,6 +5,9 @@ Originaly design was created for ironbci BCI. You can adapt it for  your needs i
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/headset.png "connect")
 
 
+# Generally     
+I believe the headset is ready, but some work is needed to start, cables, connect the electrodes, and attach the battery from your side. Looks like better to use a 200 mA battery, not more, to ensure there's enough room inside the headset.  
+
 
 Dry Electrodes – no gel needed (As an example, I used this one - [link](https://pieeg.com/cap-eeg-kit/)  
 You can adjust the strength of the connection between the electrodes and the skin through the straps.  
@@ -46,9 +49,8 @@ Electrode connections. On one side Electrode, on the other side, the cable and e
 As you can see in this photo, I used flexible printing material. But I forgot to use the flexible support, and the edges came off a little.  
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_6.png "electrode")  
 
-
-# Generally     
-I believe the headset is ready, but some work is needed to start, cables, connect the electrodes, and attach the battery from your side. Looks like better to use a 200 mA battery, not more, to ensure there's enough room inside the headset.  
+Printed samples 
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_7.png "samples")  
 
 
 #### Contacts   
