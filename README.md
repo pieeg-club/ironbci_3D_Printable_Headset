@@ -49,7 +49,8 @@ Electrode connections. On one side Electrode, on the other side, the cable and e
 As you can see in this photo, I used flexible printing material. But I forgot to use the flexible support, and the edges came off a little.  
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_6.png "electrode")  
 
-Printed samples 
+Printed samples  
+
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_7.png "samples")  
 
 
